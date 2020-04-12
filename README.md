@@ -1,2 +1,2 @@
-# collision-algo
-changing the colour of rectangles on detecting collision
+# p5.play-boilerplate
+Boiler plate for p5.play
